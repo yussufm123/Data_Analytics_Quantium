@@ -7,6 +7,7 @@ Exploratory Data Analysis (EDA): Identified key customer segments and purchasing
 Customer Segmentation: Analyzed customer demographics and spending patterns based on lifestyle and purchasing power.
 Experimentation & Uplift Testing: Implemented control and test store selection using statistical methods to evaluate the impact of a marketing campaign.
 Performance Metrics: Assessed sales uplift, customer growth, and transaction trends through data-driven insights.
+
 Tools: R programming, ggplot2, data.table, readr, and statistical testing methodologies.
 
 This project demonstrates expertise in retail analytics, statistical testing, and data-driven decision-making.
